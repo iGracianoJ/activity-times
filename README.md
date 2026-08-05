@@ -15,6 +15,6 @@ Miguel Luz: Esporte: Corrida de Avestruz
 
 Como acessar o site:
 link do repositório para clonar: https://github.com/iGracianoJ/activity-times.git
-link do site para acessar na web: https://igracianoj.github.io/activity-times/
+link do site para acessar na web: Está na odette
 Site da Equipe Esportes
  
